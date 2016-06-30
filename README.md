@@ -8,10 +8,10 @@ Ideal for handling TextMate urls (txmt://) from helpers such as [better_errors](
 
 ### Installation
 
-Somply download `IntelliJTextMateHandler.zip` somewhere safe and run it. You may need to write click on the app for it to run (not signed).
+Simply download `IntelliJTextMateHandler.zip` somewhere safe and run it. You may need to write click on the app for it to run (not signed).
 
 ### Source code & Contributing
 
-See this app's source code in `IntelliJTextMateHandler.applescript`. This is just an AppleScript app with some tweaks to open txmt:// url's
+See this app's source code in `IntelliJTextMateHandler.scpt`. This is just an AppleScript app with some tweaks to open txmt:// url's
 
-Send changes to `IntelliJTextMateHandler.applescript`, not the app itself
+Send changes to `IntelliJTextMateHandler.scpt`, not the app itself.
